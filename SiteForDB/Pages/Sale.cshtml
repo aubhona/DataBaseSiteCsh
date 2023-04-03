@@ -1,0 +1,49 @@
+@page
+@using NewVariant.Exceptions
+@model SiteForDB.Pages.SaleModel
+@{
+    ViewData["Title"] = "Sale";
+}
+
+<h1 class="text-center">Таблица продаж</h1>
+
+<form method="post" class="form-control">
+    <legend class="text-primary">Форма для добавления покупателя</legend>
+    <label class="form-label">Id покупателя</label>
+    <input type="number" name="buyerId" placeholder="id покупателя" class="form-control" required min="0"/>
+    <label class="form-label">Id магазина</label>
+    <input type="number" name="shopId" placeholder="id магазина" class="form-control" required min="0"/>
+    <label class="form-label">Id товара</label>
+    <input type="number" name="goodId" placeholder="id товара" class="form-control" required min="0"/>
+    <label class="form-label">Количество товара</label>
+    <input type="number" name="goodCount" placeholder="Количество" class="form-control" required min="1"/>
+    <input type="submit" class="btn-primary">
+</form>
+
+@if (SaleModel.ErrorMessage != string.Empty)
+{
+    <p class="alert-danger">@SaleModel.ErrorMessage</p>
+    SaleModel.ErrorMessage = string.Empty;
+} 
+
+<table class="table">
+    
+    <thead>
+    <tr><th>Id</th><th>BuyerId</th><th>ShopId</th><th>GoodId</th><th>GoodCount</th></tr>
+    </thead>
+    
+    <tbody>
+    @try
+    {
+        @foreach (var sale in Program.DataBase.GetTable<NewVariant.Models.Sale>())
+        {
+            <tr><td>@sale.Id</td><td>@sale.BuyerId</td><td>@sale.ShopId</td><td>@sale.GoodId</td><td>@sale.GoodCount</td></tr>
+        }
+    }
+    catch (DataBaseException exception)
+    {
+        SaleModel.Logger?.Log(LogLevel.Error, "{ExceptionMessage}", exception.Message);
+    }
+    </tbody>
+    
+</table>

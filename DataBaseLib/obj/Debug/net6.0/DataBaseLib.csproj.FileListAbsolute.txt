@@ -1,0 +1,30 @@
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/DataBaseLib/bin/Debug/net6.0/DataBaseLib.deps.json
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/DataBaseLib/bin/Debug/net6.0/DataBaseLib.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/DataBaseLib/bin/Debug/net6.0/DataBaseLib.pdb
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/DataBaseLib/bin/Debug/net6.0/NewVariant.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/DataBaseLib/bin/Debug/net6.0/NewVariant.pdb
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/DataBaseLib/obj/Debug/net6.0/DataBaseLib.csproj.AssemblyReference.cache
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/DataBaseLib/obj/Debug/net6.0/DataBaseLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/DataBaseLib/obj/Debug/net6.0/DataBaseLib.AssemblyInfoInputs.cache
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/DataBaseLib/obj/Debug/net6.0/DataBaseLib.AssemblyInfo.cs
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/DataBaseLib/obj/Debug/net6.0/DataBaseLib.csproj.CoreCompileInputs.cache
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/DataBaseLib/obj/Debug/net6.0/DataBaseLib.csproj.CopyComplete
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/DataBaseLib/obj/Debug/net6.0/DataBaseLib.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/DataBaseLib/obj/Debug/net6.0/refint/DataBaseLib.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/DataBaseLib/obj/Debug/net6.0/DataBaseLib.pdb
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/DataBaseLib/obj/Debug/net6.0/ref/DataBaseLib.dll
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/DataBaseLib/bin/Debug/net6.0/DataBaseLib.deps.json
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/DataBaseLib/bin/Debug/net6.0/DataBaseLib.dll
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/DataBaseLib/bin/Debug/net6.0/DataBaseLib.pdb
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/DataBaseLib/bin/Debug/net6.0/NewVariant.dll
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/DataBaseLib/bin/Debug/net6.0/NewVariant.pdb
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/DataBaseLib/obj/Debug/net6.0/DataBaseLib.csproj.AssemblyReference.cache
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/DataBaseLib/obj/Debug/net6.0/DataBaseLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/DataBaseLib/obj/Debug/net6.0/DataBaseLib.AssemblyInfoInputs.cache
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/DataBaseLib/obj/Debug/net6.0/DataBaseLib.AssemblyInfo.cs
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/DataBaseLib/obj/Debug/net6.0/DataBaseLib.csproj.CoreCompileInputs.cache
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/DataBaseLib/obj/Debug/net6.0/DataBaseLib.csproj.CopyComplete
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/DataBaseLib/obj/Debug/net6.0/DataBaseLib.dll
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/DataBaseLib/obj/Debug/net6.0/refint/DataBaseLib.dll
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/DataBaseLib/obj/Debug/net6.0/DataBaseLib.pdb
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/DataBaseLib/obj/Debug/net6.0/ref/DataBaseLib.dll

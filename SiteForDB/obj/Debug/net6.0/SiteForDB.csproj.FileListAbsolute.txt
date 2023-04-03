@@ -1,0 +1,72 @@
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/bin/Debug/net6.0/appsettings.Development.json
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/bin/Debug/net6.0/appsettings.json
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/bin/Debug/net6.0/SiteForDB.staticwebassets.runtime.json
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/bin/Debug/net6.0/SiteForDB
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/bin/Debug/net6.0/SiteForDB.deps.json
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/bin/Debug/net6.0/SiteForDB.runtimeconfig.json
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/bin/Debug/net6.0/SiteForDB.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/bin/Debug/net6.0/SiteForDB.pdb
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/bin/Debug/net6.0/DataBaseLib.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/bin/Debug/net6.0/NewVariant.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/bin/Debug/net6.0/DataBaseLib.pdb
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/bin/Debug/net6.0/NewVariant.pdb
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/obj/Debug/net6.0/SiteForDB.csproj.AssemblyReference.cache
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/obj/Debug/net6.0/SiteForDB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/obj/Debug/net6.0/SiteForDB.AssemblyInfoInputs.cache
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/obj/Debug/net6.0/SiteForDB.AssemblyInfo.cs
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/obj/Debug/net6.0/SiteForDB.csproj.CoreCompileInputs.cache
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/obj/Debug/net6.0/SiteForDB.MvcApplicationPartsAssemblyInfo.cache
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/obj/Debug/net6.0/SiteForDB.RazorAssemblyInfo.cache
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/obj/Debug/net6.0/SiteForDB.RazorAssemblyInfo.cs
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/obj/Debug/net6.0/staticwebassets/msbuild.SiteForDB.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/obj/Debug/net6.0/staticwebassets/msbuild.build.SiteForDB.props
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.SiteForDB.props
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.SiteForDB.props
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/obj/Debug/net6.0/staticwebassets.build.json
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/obj/Debug/net6.0/staticwebassets.development.json
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/obj/Debug/net6.0/scopedcss/bundle/SiteForDB.styles.css
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/obj/Debug/net6.0/scopedcss/projectbundle/SiteForDB.bundle.scp.css
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/obj/Debug/net6.0/SiteForDB.csproj.CopyComplete
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/obj/Debug/net6.0/SiteForDB.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/obj/Debug/net6.0/refint/SiteForDB.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/obj/Debug/net6.0/SiteForDB.pdb
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/obj/Debug/net6.0/SiteForDB.genruntimeconfig.cache
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/SiteForDB/obj/Debug/net6.0/ref/SiteForDB.dll
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/bin/Debug/net6.0/appsettings.Development.json
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/bin/Debug/net6.0/appsettings.json
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/bin/Debug/net6.0/SiteForDB.staticwebassets.runtime.json
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/bin/Debug/net6.0/SiteForDB
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/bin/Debug/net6.0/SiteForDB.deps.json
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/bin/Debug/net6.0/SiteForDB.runtimeconfig.json
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/bin/Debug/net6.0/SiteForDB.dll
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/bin/Debug/net6.0/SiteForDB.pdb
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/bin/Debug/net6.0/DataBaseLib.dll
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/bin/Debug/net6.0/NewVariant.dll
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/bin/Debug/net6.0/DataBaseLib.pdb
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/bin/Debug/net6.0/NewVariant.pdb
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/obj/Debug/net6.0/SiteForDB.csproj.AssemblyReference.cache
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/obj/Debug/net6.0/SiteForDB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/obj/Debug/net6.0/SiteForDB.AssemblyInfoInputs.cache
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/obj/Debug/net6.0/SiteForDB.AssemblyInfo.cs
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/obj/Debug/net6.0/SiteForDB.csproj.CoreCompileInputs.cache
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/obj/Debug/net6.0/SiteForDB.MvcApplicationPartsAssemblyInfo.cache
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/obj/Debug/net6.0/SiteForDB.RazorAssemblyInfo.cache
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/obj/Debug/net6.0/SiteForDB.RazorAssemblyInfo.cs
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/obj/Debug/net6.0/staticwebassets/msbuild.SiteForDB.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/obj/Debug/net6.0/staticwebassets/msbuild.build.SiteForDB.props
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.SiteForDB.props
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.SiteForDB.props
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/obj/Debug/net6.0/staticwebassets.build.json
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/obj/Debug/net6.0/staticwebassets.development.json
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/obj/Debug/net6.0/scopedcss/bundle/SiteForDB.styles.css
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/obj/Debug/net6.0/scopedcss/projectbundle/SiteForDB.bundle.scp.css
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/obj/Debug/net6.0/SiteForDB.csproj.CopyComplete
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/obj/Debug/net6.0/SiteForDB.dll
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/obj/Debug/net6.0/refint/SiteForDB.dll
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/obj/Debug/net6.0/SiteForDB.pdb
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/obj/Debug/net6.0/SiteForDB.genruntimeconfig.cache
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/SiteForDB/obj/Debug/net6.0/ref/SiteForDB.dll

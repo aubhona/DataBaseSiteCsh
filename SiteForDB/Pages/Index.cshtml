@@ -1,0 +1,50 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1>Добро пожаловать в меню!</h1>
+    <p class = "table-secondary">В верхней части страницы, вы можете перейти на страницы таблиц соответствующих сущностей,
+        посмотреть и заполнить их при необходимости.</p>
+    <form method="post">
+        <label class="form-label">Путь к json файлу:</label>
+        <input type="text" name="path" placeholder="Путь"/>
+        <label>Тип таблицы:</label>
+        <select name="type" class="list-group-item">
+            <option value="Buyer">Buyer</option>
+            <option value="Good">Good</option>
+            <option value="Sale">Sale</option>
+            <option value="Shop">Shop</option>
+        </select>
+        <input type="submit" asp-page-handler="Serialize" value="Serialize" class="btn-primary"/>
+        <input type="submit" asp-page-handler="Deserialize" value="Deserialize" class="btn-primary"/>
+        <input type="submit" asp-page-handler="AllGoodsOfLongestNameBuyer" value="Get all goods of longest name buyer" class="btn-primary"/>
+        <input type="submit" asp-page-handler="MostExpensiveGoodCategory" value="Get most expensive good category" class="btn-primary"/>
+        <input type="submit" asp-page-handler="MinimumSalesCity" value="Get minimum sales city" class="btn-primary"/>
+        <input type="submit" asp-page-handler="MostPopularGoodBuyers" value="Get most popular good buyers" class="btn-primary"/>
+        <input type="submit" asp-page-handler="MinimumNumberOfShopsInCountry" value="Get minimum number of shops in country" class="btn-primary"/>
+        <input type="submit" asp-page-handler="OtherCitySales" value="Get other city sales" class="btn-primary"/>
+        <input type="submit" asp-page-handler="TotalSalesValue" value="Get total sales value" class="btn-primary"/>
+    </form>
+    
+</div>
+
+<p></p>
+
+<div class="text-center">
+    <h4 class="@IndexModel.MessageType">@IndexModel.Message</h4>    
+</div>
+
+@{
+    IndexModel.Message = string.Empty;
+    IndexModel.MessageType = string.Empty;
+    
+    foreach (var obj in IndexModel.Result)
+    {
+        <p class="text-center" style="display: flex; flex-direction: column">@obj.ToString()</p>
+    }
+
+    IndexModel.Result = new List<object>();
+}

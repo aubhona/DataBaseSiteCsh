@@ -1,0 +1,50 @@
+@page
+@using NewVariant.Exceptions
+@model SiteForDB.Pages.GoodModel
+@{
+    ViewData["Title"] = "Good";
+}
+
+<h1 class="text-center">Таблица товаров</h1>
+
+<form method="post" class="form-control">
+    <legend class="text-primary">Форма для добавления товара</legend>
+    <label class="form-label">Название товара</label>
+    <input type="text" name="name" placeholder="Название" class="form-control" required/>
+    <label class="form-label">Id магазина</label>
+    <input type="number" name="shopId" placeholder="id" class="form-control" required min="0"/>
+    <label class="form-label">Категория товара</label>
+    <input type="text" name="category" placeholder="Категория" class="form-control" required/>
+    <label class="form-label">Цена товара</label>
+    <input type="number" name="price" placeholder="Цена" class="form-control" required min="0"/>
+    <input type="submit" class="btn-primary">
+</form>
+
+@if (GoodModel.ErrorMessage != string.Empty)
+{
+    <p class="alert-danger">@GoodModel.ErrorMessage</p>
+    GoodModel.ErrorMessage = string.Empty;
+} 
+
+<table class="table">
+    
+    <thead>
+    <tr><th>Id</th><th>Name</th><th>ShopId</th><th>Category</th><th>Price</th></tr>
+    </thead>
+    
+    <tbody>
+    @try
+    {
+        @foreach (var good in Program.DataBase.GetTable<NewVariant.Models.Good>())
+        {
+            <tr><td>@good.Id</td><td>@good.Name</td><td>@good.ShopId</td><td>@good.Category</td><td>@good.Price</td></tr>
+        }
+    }
+    catch (DataBaseException exception)
+    {
+        GoodModel.Logger?.Log(LogLevel.Error, "{ExceptionMessage}", exception.Message);
+    }
+    </tbody>
+    
+</table>
+

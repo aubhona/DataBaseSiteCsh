@@ -1,0 +1,44 @@
+@page
+@using NewVariant.Exceptions
+@model SiteForDB.Pages.BuyerModel
+@{
+    ViewData["Title"] = "Buyer";
+}
+
+<h1 class="text-center">Таблица покупателей</h1>
+
+<form method="post" class="form-control">
+    <legend class="text-primary">Форма для добавления покупателя</legend>
+    <label class="form-label">Имя</label>
+    <input type="text" name="name" placeholder="Имя" class="form-control" required/>
+    <label class="form-label">Фамилия</label>
+    <input type="text" name="surname" placeholder="Фамилия" class="form-control" required/>
+    <label class="form-label">Город</label>
+    <input type="text" name="city" placeholder="Город" class="form-control" required/>
+    <label class="form-label">Страна</label>
+    <input type="text" name="country" placeholder="Страна" class="form-control" required/>
+    <input type="submit" class="btn-primary">
+</form>
+
+<table class="table">
+    
+    <thead>
+    <tr><th>Id</th><th>Name</th><th>Surname</th><th>City</th><th>Country</th></tr>
+    </thead>
+    
+    <tbody>
+    @try
+    {
+        @foreach (var buyer in Program.DataBase.GetTable<NewVariant.Models.Buyer>())
+        {
+            <tr><td>@buyer.Id</td><td>@buyer.Name</td><td>@buyer.Surname</td><td>@buyer.City</td><td>@buyer.Country</td></tr>
+        }
+    }
+    catch (DataBaseException exception)
+    {
+        BuyerModel.Logger?.Log(LogLevel.Error, "{ExceptionMessage}", exception.Message);
+    }
+    </tbody>
+    
+</table>
+

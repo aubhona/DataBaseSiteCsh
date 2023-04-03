@@ -1,0 +1,41 @@
+@page
+@using NewVariant.Exceptions
+@model SiteForDB.Pages.ShopModel
+@{
+    ViewData["Title"] = "Shop";
+}
+
+<h1 class="text-center">Таблица магазинов</h1>
+
+<form method="post" class="form-control">
+    <legend class="text-primary">Форма для добавления покупателя</legend>
+    <label class="form-label">Название магазина</label>
+    <input type="text" name="name" placeholder="Название" class="form-control" required/>
+    <label class="form-label">Город</label>
+    <input type="text" name="city" placeholder="Город" class="form-control" required/>
+    <label class="form-label">Страна</label>
+    <input type="text" name="country" placeholder="Страна" class="form-control" required/>
+    <input type="submit" class="btn-primary">
+</form>
+
+<table class="table">
+    
+    <thead>
+    <tr><th>Id</th><th>Name</th><th>City</th><th>Country</th></tr>
+    </thead>
+    
+    <tbody>
+    @try
+    {
+        @foreach (var shop in Program.DataBase.GetTable<NewVariant.Models.Shop>())
+        {
+            <tr><td>@shop.Id</td><td>@shop.Name</td><td>@shop.City</td><td>@shop.Country</td></tr>
+        }
+    }
+    catch (DataBaseException exception)
+    {
+        ShopModel.Logger?.Log(LogLevel.Error, "{ExceptionMessage}", exception.Message);
+    }
+    </tbody>
+    
+</table>

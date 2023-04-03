@@ -1,0 +1,24 @@
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/NewVariant/bin/Debug/net6.0/NewVariant.deps.json
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/NewVariant/bin/Debug/net6.0/NewVariant.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/NewVariant/bin/Debug/net6.0/NewVariant.pdb
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/NewVariant/obj/Debug/net6.0/NewVariant.csproj.AssemblyReference.cache
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/NewVariant/obj/Debug/net6.0/NewVariant.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/NewVariant/obj/Debug/net6.0/NewVariant.AssemblyInfoInputs.cache
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/NewVariant/obj/Debug/net6.0/NewVariant.AssemblyInfo.cs
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/NewVariant/obj/Debug/net6.0/NewVariant.csproj.CoreCompileInputs.cache
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/NewVariant/obj/Debug/net6.0/NewVariant.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/NewVariant/obj/Debug/net6.0/refint/NewVariant.dll
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/NewVariant/obj/Debug/net6.0/NewVariant.pdb
+/Users/aubkhonabdullaev/Library/Mobile Documents/com~apple~CloudDocs/Programming/Term2/IndependentWork/DataBaseWork/NewVariant/obj/Debug/net6.0/ref/NewVariant.dll
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/NewVariant/bin/Debug/net6.0/NewVariant.deps.json
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/NewVariant/bin/Debug/net6.0/NewVariant.dll
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/NewVariant/bin/Debug/net6.0/NewVariant.pdb
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/NewVariant/obj/Debug/net6.0/NewVariant.csproj.AssemblyReference.cache
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/NewVariant/obj/Debug/net6.0/NewVariant.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/NewVariant/obj/Debug/net6.0/NewVariant.AssemblyInfoInputs.cache
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/NewVariant/obj/Debug/net6.0/NewVariant.AssemblyInfo.cs
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/NewVariant/obj/Debug/net6.0/NewVariant.csproj.CoreCompileInputs.cache
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/NewVariant/obj/Debug/net6.0/NewVariant.dll
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/NewVariant/obj/Debug/net6.0/refint/NewVariant.dll
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/NewVariant/obj/Debug/net6.0/NewVariant.pdb
+/Users/aubkhonabdullaev/Downloads/DataBaseWork/NewVariant/obj/Debug/net6.0/ref/NewVariant.dll
